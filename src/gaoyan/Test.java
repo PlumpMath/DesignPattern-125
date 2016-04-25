@@ -1,5 +1,5 @@
 package gaoyan;
 
 public class Test {
-    private String name = "gaoyan";
+    private String nameA = "gaoyan";
 }
